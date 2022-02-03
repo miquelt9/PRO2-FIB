@@ -61,18 +61,18 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](htt
 - [X77648](https://jutge.org/X77648) - [Solució](1r%20parcial%20de%20teoria/X77648) - Arbres quasi coincidents (BinTree)
 ## Apuntadors 1
 - [X54670](https://jutge.org/X54670) - [Solució](Apuntadors%201/X54670) - Concatenació de dues cues amb apuntadors
-- [X50439](https://jutge.org/X50439) - [Solució](X50439.cc) - Còpia d'una cadena de nodes simplement encadenats
-- [X97290](https://jutge.org/X97290) - [Solució](X97290.cc) - Còpia d'una cadena de nodes doblement encadenats
-- [X15014](https://jutge.org/X15014) - [Solució](X15014.cc) - Arbre de sumes d'un arbre donat
+- [X50439](https://jutge.org/X50439) - [Solució](Apuntadors%201/X50439) - Còpia d'una cadena de nodes simplement encadenats
+- [X97290](https://jutge.org/X97290) - [Solució](Apuntadors%201/X97290) - Còpia d'una cadena de nodes doblement encadenats
+- [X15014](https://jutge.org/X15014) - [Solució](Apuntadors%201/X15014) - Arbre de sumes d'un arbre donat
 ## Apuntadors 2
-- [X66203](https://jutge.org/X66203) - [Solució](X66203.cc) - Màxim d'un arbre n-ari
-- [X18899](https://jutge.org/X18899) - [Solució](X18899.cc) - Arbre suma d'un arbre n-ari
-- [X60365](https://jutge.org/X60365) - [Solució](X60365.cc) - Cerca en un arbre general
-- [X96511](https://jutge.org/X96511) - [Solució](X96511.cc) - Nombre d'aparicions d'un valor en un arbre general
-- [X89446](https://jutge.org/X89446) - [Solució](X89446.cc) - Reorganitzar una llista (versió OUT)
-- [X16049](https://jutge.org/X16049) - [Solució](X16049.cc) - Reorganitzar una llista (versió IN)
+- [X66203](https://jutge.org/X66203) - [Solució](Apuntadors%202/X66203) - Màxim d'un arbre n-ari
+- [X18899](https://jutge.org/X18899) - [Solució](Apuntadors%202/X18899) - Arbre suma d'un arbre n-ari
+- [X60365](https://jutge.org/X60365) - [Solució](Apuntadors%202/X60365) - Cerca en un arbre general
+- [X96511](https://jutge.org/X96511) - [Solució](Apuntadors%202/X96511) - Nombre d'aparicions d'un valor en un arbre general
+- [X89446](https://jutge.org/X89446) - [Solució](Apuntadors%202/X89446) - Reorganitzar una llista (versió OUT)
+- [X16049](https://jutge.org/X16049) - [Solució](Apuntadors%202/X16049) - Reorganitzar una llista (versió IN)
 ## 2n parcial de teoria
-- [X09609](https://jutge.org/X09609) - [Solució](X09609.cc) - Cerca de subarbres binaris
-- [X25142](https://jutge.org/X25142) - [Solució](X25142.cc) - Suma màxima dels camins d'un arbre general
-- [X22646](https://jutge.org/X22646) - [Solució](X22646.cc) - Trenat de cues
-- [X10002](https://jutge.org/X10002) - [Solució](X10002.cc) - Esborrat de totes les aparicions d'un element a una llista
+- [X09609](https://jutge.org/X09609) - [Solució](2n%20parcial%20de%20teoria/X09609.cc) - Cerca de subarbres binaris
+- [X25142](https://jutge.org/X25142) - [Solució](2n%20parcial%20de%20teoria/X25142.cc) - Suma màxima dels camins d'un arbre general
+- [X22646](https://jutge.org/X22646) - [Solució](2n%20parcial%20de%20teoria/X22646.cc) - Trenat de cues
+- [X10002](https://jutge.org/X10002) - [Solució](2n%20parcial%20de%20teoria/X10002.cc) - Esborrat de totes les aparicions d'un element a una llista
