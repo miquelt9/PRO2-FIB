@@ -17,21 +17,21 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](htt
 - [2n parcial de teoria](https://github.com/miquelt9)
 
 ## Sessió 1
-- [X49116](https://jutge.org/X49116) - [Solució](X49116.cc) - Màxim i mínim d'un vector (no main)
-- [X54177](https://jutge.org/X54177) - [Solució](X54177.cc) - Suma de secuencias de enteros
-- [X88161](https://jutge.org/X88161) - [Solució](X88161.cc) - Classificació de la
+- [X49116](https://jutge.org/X49116) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%201/X49116.cc) - Màxim i mínim d'un vector (no main)
+- [X54177](https://jutge.org/X54177) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%201/X54177.cc) - Suma de secuencias de enteros
+- [X88161](https://jutge.org/X88161) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%201/X88161.cc) - Classificació de la lliga
 ## Sessió 2
-- [X91802](https://jutge.org/X91802) - [Solució](X91802.cc) - Nota màxima i mínima d'un vector d'estudiants (no main)
-- [X73814](https://jutge.org/X73814) - [Solució](X73814.cc) - Simplificació d'un vector d'estudiants agrupats
-- [X39577](https://jutge.org/X39577) - [Solució](X39577.cc) - Mitjanes selectives
-- [X99804](https://jutge.org/X99804) - [Solució](X99804.cc) - Mitjanes selectives 2
-- [X94199](https://jutge.org/X94199) - [Solució](X94199.cc) - Simplificació d'un vector d'estudiants agrupats, modificació
-- [X74882](https://jutge.org/X74882) - [Solució](X74882.cc) - Actualitzar un conjunt d'estudiants
-- [X22862](https://jutge.org/X22862) - [Solució](X22862.cc) - Gestión integral de un conjunto de estudiantes
+- [X91802](https://jutge.org/X91802) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X91802.cc) - Nota màxima i mínima d'un vector d'estudiants (no main)
+- [X73814](https://jutge.org/X73814) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X73814.cc) - Simplificació d'un vector d'estudiants agrupats
+- [X39577](https://jutge.org/X39577) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X39577.cc) - Mitjanes selectives
+- [X99804](https://jutge.org/X99804) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X99804.cc) - Mitjanes selectives 2
+- [X94199](https://jutge.org/X94199) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X94199.cc) - Simplificació d'un vector d'estudiants agrupats, modificació
+- [X74882](https://jutge.org/X74882) - [Solució](Sessio%202/X74882.cc) - Actualitzar un conjunt d'estudiants
+- [X22862](https://jutge.org/X22862) - [Solució](https://github.com/miquelt9/PRO2-FIB/blob/main/Sessio%202/X22862.cc) - Gestión integral de un conjunto de estudiantes
 ## Sessió 3
-- [X16094](https://jutge.org/X16094) - [Solució](X16094.cc) - Modificacions de la classe Estudiant
-- [X68173](https://jutge.org/X68173) - [Solució](X68173.cc) - Conjunt d'estudiants amb imax
-- [X90633](https://jutge.org/X90633) - [Solució](X90633.cc) - Control - Torn 1 (Primavera 2015)
+- [X16094](https://jutge.org/X16094) - [Solució](https://github.com/miquelt9/PRO2-FIB/tree/main/Sessio%203/X16094) - Modificacions de la classe Estudiant
+- [X68173](https://jutge.org/X68173) - [Solució](https://github.com/miquelt9/PRO2-FIB/tree/main/Sessio%203/X68173) - Conjunt d'estudiants amb imax
+- [X90633](https://jutge.org/X90633) - [Solució](https://github.com/miquelt9/PRO2-FIB/tree/main/Sessio%203/X90633) - Control - Torn 1 (Primavera 2015)
 ## Stack & Queue
 - [X96935](https://jutge.org/X96935) - [Solució](X96935.cc) - Palíndroms amb piles
 - [X36902](https://jutge.org/X36902) - [Solució](X36902.cc) - Avaluacio d'una expressio amb parentesis
