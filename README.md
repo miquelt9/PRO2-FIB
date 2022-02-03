@@ -33,11 +33,11 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](htt
 - [X68173](https://jutge.org/X68173) - [Solució](https://github.com/miquelt9/PRO2-FIB/tree/main/Sessio%203/X68173) - Conjunt d'estudiants amb imax
 - [X90633](https://jutge.org/X90633) - [Solució](https://github.com/miquelt9/PRO2-FIB/tree/main/Sessio%203/X90633) - Control - Torn 1 (Primavera 2015)
 ## Stack & Queue
-- [X96935](https://jutge.org/X96935) - [Solució](X96935.cc) - Palíndroms amb piles
-- [X36902](https://jutge.org/X36902) - [Solució](X36902.cc) - Avaluacio d'una expressio amb parentesis
-- [X68213](https://jutge.org/X68213) - [Solució](X68213.cc) - Biblioteca
-- [X13425](https://jutge.org/X13425) - [Solució](X13425.cc) - Distribucio justa de cuesMake
-- [X38371](https://jutge.org/X38371) - [Solució](X38371.cc) - Estadístiques d'una seqüència d'enters amb esborrat del més antic
+- [X96935](https://jutge.org/X96935) - [Solució](Stack%20%26%20Queue/X96935.cc) - Palíndroms amb piles
+- [X36902](https://jutge.org/X36902) - [Solució](Stack%20%26%20Queue/X36902.cc) - Avaluacio d'una expressio amb parentesis
+- [X68213](https://jutge.org/X68213) - [Solució](Stack%20%26%20Queue/X68213.cc) - Biblioteca
+- [X13425](https://jutge.org/X13425) - [Solució](Stack%20%26%20Queue/X13425) - Distribucio justa de cuesMake
+- [X38371](https://jutge.org/X38371) - [Solució](Stack%20%26%20Queue/X38371.cc) - Estadístiques d'una seqüència d'enters amb esborrat del més antic
 ## List & BinTree
 - [X19134](https://jutge.org/X19134) - [Solució](X19134.cc) - Cerca en una llista de parells d'entersMake
 - [X36914](https://jutge.org/X36914) - [Solució](X36914.cc) - Cerca en una llista d'estudiantsMake
