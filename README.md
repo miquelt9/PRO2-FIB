@@ -6,15 +6,15 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](htt
 
 ## Índex
 - [Sessió 1](#sessi%C3%B3-1)
-- [Sessió 2](https://github.com/miquelt9)
-- [Sessió 3](https://github.com/miquelt9)
-- [Stack & Queue](https://github.com/miquelt9)
-- [List & BinTree](https://github.com/miquelt9)
-- [Map & Set](https://github.com/miquelt9)
-- [1r parcial de teoria](https://github.com/miquelt9)
-- [Apuntadors 1](https://github.com/miquelt9)
-- [Apuntadors 2](https://github.com/miquelt9)
-- [2n parcial de teoria](https://github.com/miquelt9)
+- [Sessió 2](#sessi%C3%B3-2)
+- [Sessió 3](#sessi%C3%B3-3)
+- [Stack & Queue](#stack--queue)
+- [List & BinTree](#list--bintree)
+- [Map & Set](#map--set)
+- [1r parcial de teoria](#1r-parcial-de-teoria)
+- [Apuntadors 1](#apuntadors-1)
+- [Apuntadors 2](#apuntadors-2)
+- [2n parcial de teoria](#2n-parcial-de-teoria)
 
 ## Sessió 1
 - [X49116](https://jutge.org/X49116) - [Solució](Sessio%201/X49116.cc) - Màxim i mínim d'un vector (no main)
