@@ -5,7 +5,7 @@ Aquí trobareu els problemes de [PRO2](https://www.cs.upc.edu/pro2/) de la [FIB]
 El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](https://jutge.org/courses/Pro2:PRO2QP2021)
 
 ## Índex
-- [Sessió 1](https://github.com/miquelt9)
+- [Sessió 1](#sessi%C3%B3-1)
 - [Sessió 2](https://github.com/miquelt9)
 - [Sessió 3](https://github.com/miquelt9)
 - [Stack & Queue](https://github.com/miquelt9)
@@ -72,7 +72,7 @@ El curs està disponible al [Jutge](https://jutge.org/): [PRO2 2020-2021 Q1](htt
 - [X89446](https://jutge.org/X89446) - [Solució](Apuntadors%202/X89446) - Reorganitzar una llista (versió OUT)
 - [X16049](https://jutge.org/X16049) - [Solució](Apuntadors%202/X16049) - Reorganitzar una llista (versió IN)
 ## 2n parcial de teoria
-- [X09609](https://jutge.org/X09609) - [Solució](2n%20parcial%20de%20teoria/X09609.cc) - Cerca de subarbres binaris
-- [X25142](https://jutge.org/X25142) - [Solució](2n%20parcial%20de%20teoria/X25142.cc) - Suma màxima dels camins d'un arbre general
-- [X22646](https://jutge.org/X22646) - [Solució](2n%20parcial%20de%20teoria/X22646.cc) - Trenat de cues
-- [X10002](https://jutge.org/X10002) - [Solució](2n%20parcial%20de%20teoria/X10002.cc) - Esborrat de totes les aparicions d'un element a una llista
+- [X09609](https://jutge.org/X09609) - [Solució](2n%20parcial%20de%20teoria/X09609) - Cerca de subarbres binaris
+- [X25142](https://jutge.org/X25142) - [Solució](2n%20parcial%20de%20teoria/X25142) - Suma màxima dels camins d'un arbre general
+- [X22646](https://jutge.org/X22646) - [Solució](2n%20parcial%20de%20teoria/X22646) - Trenat de cues
+- [X10002](https://jutge.org/X10002) - [Solució](2n%20parcial%20de%20teoria/X10002) - Esborrat de totes les aparicions d'un element a una llista
