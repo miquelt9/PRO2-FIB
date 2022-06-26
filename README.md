@@ -1,4 +1,10 @@
 # Problemes PRO2
+[![HitCount](https://hits.dwyl.com/miquelt9/PRO2-FIB.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/PRO2-FIB)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](/CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/PRO2-FIB.svg)](https://GitHub.com/miquelt9/PRO2-FIB/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/PRO2-FIB.svg)](https://GitHub.com/miquelt9/PRO2-FIB/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/PRO2-FIB.svg)](https://github.com/miquelt9/PRO2-FIB)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/PRO2-FIB.svg)](https://GitHub.com/miquelt9/PRO2-FIB/graphs/contributors/)
 
 Aquí trobareu els problemes de [PRO2](https://www.cs.upc.edu/pro2/) de la [FIB](https://www.fib.upc.edu/) ([UPC](https://www.upc.edu/)) corresponents al quatrimestre de primavera 2020/2021.                            
 ***Intenteu resoldre els problemes sense ajuda abans de mirar la solució***                      
